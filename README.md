@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ogbujoy154@gmail.com**
 
-  passionate Cybersecurity Analyst and Digital Forensics Specialist dedicated to making the digital world safer. My repository is where technical skills meet creativity, so feel free to explore and collaborate!
-
 🔐 Who Am I?
 
 🔧 ISC2 CC Certified | Cyber Girls Alumni
