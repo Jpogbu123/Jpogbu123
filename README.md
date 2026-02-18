@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joy Eneotse Ogbu</h1>
-<h3 align="center">A passionate Cybersecurity Analyst and Digital Forensics Specialist dedicated to making the digital world safer. My repository is where technical skills meet creativity, so feel free to explore and collaborate!</h3>
+<h3 align="center">A passionate Soc Analyst  dedicated to making the digital world safer. My repository is where technical skills meet creativity, so feel free to explore and collaborate!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpogbu123" alt="jpogbu123" /></a> </p>
 
-- 🔭 I’m currently working on **Network Vulnerability scanner**
-
-- 💬 Ask me about **Cybersecurity, Digital forensics and Vulnerability assessment**
+- 💬 Ask me about **Cybersecurity, Playbooks and Vulnerability assessment**
 
 - 📫 How to reach me **ogbujoy154@gmail.com**
 
@@ -15,7 +13,7 @@
 
 🔒 Experienced in Vulnerability Assessment, Risk Analysis, and Incident Response
 
-🔮 Digital Forensics Enthusiast skilled in tools like FTK Imager, Autopsy, and Wireshark
+🔮 Soc Analysis Enthusiast skilled in tools like Wazuh, Splunk, and Wireshark
 
 🚀 Proficient in Linux, Windows, and using Nmap for network security
 
